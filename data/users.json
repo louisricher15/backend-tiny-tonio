@@ -1,0 +1,20 @@
+[
+  {
+    "firstname": "Admin",
+    "lastname": "ADMIN",
+    "mail": "admin@mail.com",
+    "password": "psswd",
+    "role": [
+      "ADMIN"
+    ]
+  },
+  {
+    "firstname": "Alejandro",
+    "lastname": "SOSA",
+    "mail": "dev@mail.com",
+    "password": "psswd",
+    "role": [
+      "DEV"
+    ]
+  }
+]
