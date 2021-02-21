@@ -3,10 +3,13 @@ module.exports = mongoose => {
         "users",
         mongoose.Schema(
             {
+                _id: String,
+                __v: Number,
                 firstname: String,
                 lastname: String,
-                mail: String,
+                email: String,
                 password: String,
+                isConnected: Boolean,
                 role: Array(String)
             }
         )

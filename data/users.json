@@ -2,8 +2,9 @@
   {
     "firstname": "Admin",
     "lastname": "ADMIN",
-    "mail": "admin@mail.com",
+    "email": "admin@mail.com",
     "password": "psswd",
+    "isConnected": false,
     "role": [
       "ADMIN"
     ]
@@ -11,8 +12,9 @@
   {
     "firstname": "Alejandro",
     "lastname": "SOSA",
-    "mail": "dev@mail.com",
+    "email": "dev@mail.com",
     "password": "psswd",
+    "isConnected": false,
     "role": [
       "DEV"
     ]
